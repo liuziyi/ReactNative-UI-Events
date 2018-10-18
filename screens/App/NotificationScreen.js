@@ -16,7 +16,7 @@ class NotificationScreen extends Component {
                 <Thumbnail source={require('../../assets/logos/olympics.png')}/>
                 <Body>
                   <Text>
-                    <Text style={{ fontWeight: "900" }}>Olympics </Text>
+                    <Text style={{ fontWeight: "900" }}>Olympics</Text>{" "}
                     created a new event.
                   </Text>
                 </Body>
